@@ -1,8 +1,6 @@
 /*
- * Project.c
- *
  *  Created on: Aug 11, 2024
- *      Author: kareem Medhat
+ *  Author: kareem Medhat
  */
 
 #include <stdio.h>
